@@ -1,2 +1,2 @@
-# hamburgueria
-Atividade avaliativa para estudar banco de dados no MongoDB
+# Hamburgueria
+Simulando o banco de dados de uma hamburgueria
